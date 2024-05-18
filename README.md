@@ -1,3 +1,4 @@
 # ASUS-PRIME-Z490M-PLUS
 Opencore EFI for 华硕 ASUS PRIME Z490M-PLUS, 
-i7-10700K with iGPU only
+# i7-10700K with iGPU only
+i7-10700K + RX6650XT
